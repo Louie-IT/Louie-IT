@@ -19,7 +19,7 @@ I've finally decided to create this profile to share some of my projects, real l
 
 Hobbies
 
-* On my spare time I enjoy being creative - drawing, animations, and graphic designing.
+* On my spare time I enjoy being creative - drawing, animations, and motion design.
     * https://dribbble.com/humansxrobots
  
 * Traveling
@@ -28,3 +28,4 @@ Hobbies
 
 * Cybersecurity & data privacy 
 
+* Anime
